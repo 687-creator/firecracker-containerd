@@ -1,0 +1,6 @@
+{
+    "workbench.enableExperiments": false,
+    "telemetry.enableCrashReporter": false,
+    "git.autofetch": true,
+    "docker.images.checkForOutdatedImages": true
+}
